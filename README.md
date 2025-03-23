@@ -12,3 +12,10 @@
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
 
+
+
+## Steam好友列表
+| Avatar                                                                            | Name    | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
+|:----------------------------------------------------------------------------------|:--------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
+| ![](https://avatars.steamstatic.com/cabb1f4468197023a1237d0a97a0e8993c6ae3d2.jpg) | 鸭舌帽扫描码  | [76561199015068446](https://steamcommunity.com/profiles/76561199015068446/) | ✅           | 2024-08-29 11:39:54 |                |          |
+| ![](https://avatars.steamstatic.com/2e29f8b503efbea4d6b526d685acb0875a66b77f.jpg) | 最英俊的章鱼哥 | [76561199549568094](https://steamcommunity.com/profiles/76561199549568094/) | ✅           | 2023-09-21 14:26:12 |                |          |
